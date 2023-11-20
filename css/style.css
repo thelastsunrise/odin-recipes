@@ -11,3 +11,7 @@ h1, h2 {
 p, div { 
     text-align: center;
 }
+
+a {
+    color: rgb(206, 30, 30);
+}
