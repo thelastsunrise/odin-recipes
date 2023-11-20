@@ -1,0 +1,13 @@
+body {
+    background-color: #ffe4c4;
+    color: #362e2e;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+h1, h2 {
+    font-family: 'Times New Roman', Times, serif
+}
+
+p, div { 
+    text-align: center;
+}
