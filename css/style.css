@@ -13,8 +13,10 @@ h1, h2 {
     text-align: center;
 }
 
-p, div { 
+p, div, img { 
+    display: block;
     text-align: center;
+    margin: auto;
 }
 
 a {
